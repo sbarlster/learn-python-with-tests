@@ -11,12 +11,12 @@ Learn to code Python through the medium of unit testing
 
 
 ## Why Tests?
-Because the bedrock of great software are unit tests.
+Because the bedrock of great software is unit testing.
 
 * Unit tests tell you if your software is doing what you want it to do
 * Unit tests are easy to build
 * Unit tests are fast to run
-* Unit tests are focused - because they are running small units of code - you know where to look for a problem
+* Unit tests are focused - because they are running small units of code - you know where to look for the problem if they fail
 
 Unit tests will allow us to learn in small steps and the test will explain what we are doing.
 
